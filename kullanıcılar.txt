@@ -1,0 +1,7 @@
+#EliT UYELER#
+Serpil Üstebay serpil@deneme.edu.tr
+Eda	Gök	eda@email.com
+Ali	Gökten	ali@email.com
+
+#GENEL ÜYELER#
+Ayse	Ak	ayse@email.com
