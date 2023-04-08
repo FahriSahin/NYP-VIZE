@@ -6,4 +6,3 @@ Ali	Gökten	ali@email.com
 #GENEL ÜYELER#
 Ayse	Ak	ayse@email.com
 
-
